@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://p9.itc.cn/q_70/images03/20201222/14b8efe2d01a4fa3ae8d491bd7c455d4.jpeg" style="width: 90px; height: 90px;"/>
+  <img src="https://avatars.githubusercontent.com/u/64945568?s=400&u=d9ea1f44f772403acbf8775fca48877bc3fd1fe0&v=4" style="width: 90px; height: 90px;"/>
   <h2 align="center">诡锋 (aka Vincent)</h2>
   <p align="center">:clap: 一个喜欢前端开发的普通人，喜欢自己捣鼓电子音乐制作。 :clap:</p>
   <p align="center">个人博客网站正在搭建中</p>
