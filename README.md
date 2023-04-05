@@ -8,8 +8,8 @@
   </p>
   <p align="center">
   Bilibili:
-  <a href="https://www.bilibili.com/" 
-     target="_blank">Bilibili</a>
+  <a href="https://space.bilibili.com/3342738" 
+     target="_blank">诡锋的B站</a>
   </p>
 </p>
 
