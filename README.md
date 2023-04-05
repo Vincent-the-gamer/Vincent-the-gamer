@@ -2,7 +2,15 @@
   <img src="https://avatars.githubusercontent.com/u/64945568?s=400&u=d9ea1f44f772403acbf8775fca48877bc3fd1fe0&v=4" style="width: 90px; height: 90px;"/>
   <h2 align="center">诡锋 (aka Vincent)</h2>
   <p align="center">:clap: 一个喜欢前端开发的普通人，喜欢自己捣鼓电子音乐制作。 :clap:</p>
-  <p align="center">个人博客网站正在搭建中</p>
+  <p align="center">
+  个人博客: <a href="https://vincent-the-gamer.github.io/guifeng-blog/" 
+              target="_blank">My Blog</a>
+  </p>
+  <p align="center">
+  Bilibili:
+  <a href="https://www.bilibili.com/" 
+     target="_blank">Bilibili</a>
+  </p>
 </p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
