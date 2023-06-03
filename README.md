@@ -36,8 +36,9 @@ My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/"
     <br/>
     <img src="https://stats.justsong.cn/api/bilibili/?id=3342738&theme=dark"/>
     <br/>
-
 </p>
+
+![](https://raw.githubusercontent.com/Vincent-the-gamer/Vincent-the-gamer/main/assets/github-contribution-grid-snake.svg)
 
 
 
