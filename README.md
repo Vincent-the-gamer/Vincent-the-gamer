@@ -12,6 +12,16 @@ My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/"
   <a href="https://space.bilibili.com/3342738" 
      target="_blank">诡锋的B站</a>
   </p>
+  <br/>
+  <h1 align="center"> 
+    <a href="https://space.bilibili.com/3342738"> 
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=早上不起晚上不睡，一到年末啥也不会！&center=true&size=20"> 
+    </a> 
+  </h1>
+  <p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=vincent-the-gamer" />
+  </p>
+
 </p>
 
 ---
@@ -29,17 +39,31 @@ My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/"
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 ---
+# Contributions
+![](https://raw.githubusercontent.com/Vincent-the-gamer/Vincent-the-gamer/main/assets/github-contribution-grid-snake.svg)
 
 # Info
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vincent-the-gamer&show_icons=true&theme=dark&count_private=true"/>
+    <img src="https://metrics.lecoq.io/vincent-the-gamer?template=classic&config.timezone=Asia%2FShanghai">
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vincent-the-gamer&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
     <br/>
     <img src="https://stats.justsong.cn/api/bilibili/?id=3342738&theme=dark"/>
     <br/>
+    <!-- most used languages-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-the-gamer&hide_title=true&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=c%23,shaderlab,hlsl" />
+    <br/>
 </p>
 
-![](https://raw.githubusercontent.com/Vincent-the-gamer/Vincent-the-gamer/main/assets/github-contribution-grid-snake.svg)
+# Streak(连续打卡）
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-the-gamer" />
+</p>
 
+# Activities
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-the-gamer&theme=dracula" />
+</p>
 
 
 
