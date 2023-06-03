@@ -18,13 +18,8 @@ My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/"
       <img src="https://readme-typing-svg.herokuapp.com/?lines=早上不起晚上不睡，一到年末啥也不会！&center=true&size=20"> 
     </a> 
   </h1>
-  <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=vincent-the-gamer" />
-  </p>
-
 </p>
 
----
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -39,7 +34,13 @@ My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/"
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 ---
-# Contributions
+
+# Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vincent-the-gamer" />
+</p>
+
+# Commits
 ![](https://raw.githubusercontent.com/Vincent-the-gamer/Vincent-the-gamer/main/assets/github-contribution-grid-snake.svg)
 
 # Info
@@ -51,7 +52,7 @@ My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/"
     <img src="https://stats.justsong.cn/api/bilibili/?id=3342738&theme=dark"/>
     <br/>
     <!-- most used languages-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-the-gamer&hide_title=true&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=c%23,shaderlab,hlsl" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-the-gamer&hide_title=true&hide_border=true&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=c%23,shaderlab,hlsl" />
     <br/>
 </p>
 
