@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/64945568?s=400&u=d9ea1f44f772403acbf8775fca48877bc3fd1fe0&v=4" style="width: 90px; height: 90px;"/>
   <h2 align="center">诡锋 (Vincent)</h2>
   <p align="center">:clap: 一个喜欢前端开发的普通人，喜欢自己捣鼓电子音乐制作。 :clap:</p>
-    <p align="center">:clap: Frontend hobbist, Learning EDM Production^v^ :clap:</p>
+    <p align="center">:clap: Frontend hobbist, Learning electronic music making.^v^ :clap:</p>
   <p align="center">
 My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/" 
               target="_blank">个人博客 (My Blog)</a>
