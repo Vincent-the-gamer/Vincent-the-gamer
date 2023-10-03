@@ -18,6 +18,9 @@ My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/"
       <img src="https://readme-typing-svg.herokuapp.com/?lines=早上不起晚上不睡，一到年末啥也不会！&center=true&size=20"> 
     </a> 
   </h1>
+  <p align="center">
+    <img src="https://github.com/Vincent-the-gamer/static/blob/main/pictures/banner.png" alt="banner"/>
+  </p>
 </p>
 
 
