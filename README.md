@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/64945568?s=400&u=d9ea1f44f772403acbf8775fca48877bc3fd1fe0&v=4" style="width: 90px; height: 90px;"/>
   <h2 align="center">诡锋 (Vincent)</h2>
-  <p align="center">:clap: 一个喜欢前端开发的普通人，喜欢自己捣鼓电子音乐制作。 :clap:</p>
-    <p align="center">:clap: Frontend hobbist, Learning electronic music making.^v^ :clap:</p>
+  <p align="center">:clap: 一个喜欢Rust编程和Web前端开发的普通人。 :clap:</p>
+    <p align="center">:clap: Rust Programming & Web Frontend hobbist.^v^ :clap:</p>
   <p align="center">
 My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/" 
               target="_blank">个人博客 (My Blog)</a>
@@ -20,18 +20,37 @@ My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/"
   </h1>
 </p>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+<h3>OS</h3>
+
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+<h3>Skills</h3>
+
+<h4>Programming Languages</h4>
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<h4>Web Frontend Development</h4>
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+<h3>Gaming</h3>
+
 ![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 ---
 
@@ -40,8 +59,8 @@ My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/"
   <img src="https://github-profile-trophy.vercel.app/?username=vincent-the-gamer" />
 </p>
 
-# Commits
-![](https://raw.githubusercontent.com/Vincent-the-gamer/Vincent-the-gamer/main/assets/github-contribution-grid-snake.svg)
+# Visits
+![Visitor Count](https://profile-counter.glitch.me/vincent-the-gamer/count.svg)
 
 # Info
 <p align="center">
