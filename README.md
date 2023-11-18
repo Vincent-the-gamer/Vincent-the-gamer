@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/64945568?s=400&u=d9ea1f44f772403acbf8775fca48877bc3fd1fe0&v=4" style="width: 90px; height: 90px;"/>
   <h2 align="center">诡锋 (Vincent)</h2>
   <p align="center">:clap: 一个喜欢Rust编程和Web前端开发的普通人。 :clap:</p>
-    <p align="center">:clap: Rust Programming & Web Frontend hobbist.^v^ :clap:</p>
+    <p align="center">:clap: Rust Programming & Web Frontend hobbyist.^v^ :clap:</p>
   <p align="center">
 My Blog: <a href="https://vincent-the-gamer.github.io/guifeng-blog/" 
               target="_blank">个人博客 (My Blog)</a>
