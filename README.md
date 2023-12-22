@@ -18,9 +18,19 @@ My personal website: <a href="https://vincent-the-gamer.github.io/vincent-me/"
       <img src="https://readme-typing-svg.herokuapp.com/?lines=早上不起晚上不睡，一到年末啥也不会！&center=true&size=20"> 
     </a> 
   </h1>
-  <p align="center">
-    <img src="https://github.com/Vincent-the-gamer/static/blob/main/pictures/banner.png" alt="banner"/>
-  </p>
+  <!-- Gif -->
+  <div align="center">
+    <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+    <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+    <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+    <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+    <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
+    <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+    <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+  </div>
+  
+  <!-- img -->
+  <div align="center"><img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 </p>
 
 
