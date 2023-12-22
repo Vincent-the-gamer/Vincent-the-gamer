@@ -67,18 +67,13 @@ My personal website: <a href="https://vincent-the-gamer.github.io/vincent-me/"
 
 ---
 
-# Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vincent-the-gamer" />
-</p>
+<img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
 
 # Visits
 ![Visitor Count](https://profile-counter.glitch.me/vincent-the-gamer/count.svg)
 
 # Info
 <p align="center">
-    <img src="https://metrics.lecoq.io/vincent-the-gamer?template=classic&config.timezone=Asia%2FShanghai">
-    <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=vincent-the-gamer&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
     <br/>
     <img src="https://stats.justsong.cn/api/bilibili/?id=3342738&theme=dark"/>
