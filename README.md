@@ -67,7 +67,7 @@ My personal website: <a href="https://vincent-the-gamer.github.io/vincent-me/"
 
 ---
 
-<img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+![snake](./assets/github-contribution-grid-snake.svg)
 
 # Visits
 ![Visitor Count](https://profile-counter.glitch.me/vincent-the-gamer/count.svg)
