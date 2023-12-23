@@ -4,8 +4,8 @@
   <p align="center">:clap: 一个喜欢Rust编程和Web前端开发的普通人。 :clap:</p>
     <p align="center">:clap: Rust Programming & Web Frontend hobbyist.^v^ :clap:</p>
   <p align="center">
-My personal website: <a href="https://vincent-the-gamer.github.io/vincent-me/" 
-              target="_blank">个人网站 (My personal website)</a>
+My personal website(个人网站): <a href="https://blog.vince-g.xyz" 
+              target="_blank">https://blog.vince-g.xyz</a>
   </p>
   <p align="center">
   Bilibili:
