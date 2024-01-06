@@ -4,13 +4,17 @@
   <p align="center">:clap: 一个喜欢Rust编程和Web前端开发的普通人。 :clap:</p>
     <p align="center">:clap: Rust Programming & Web Frontend hobbyist.^v^ :clap:</p>
   <p align="center">
-My personal website(个人网站): <a href="https://blog.vince-g.xyz" 
+Personal website(个人网站): <a href="https://blog.vince-g.xyz" 
               target="_blank">https://blog.vince-g.xyz</a>
   </p>
   <p align="center">
   Bilibili:
   <a href="https://space.bilibili.com/3342738" 
      target="_blank">诡锋的B站</a>
+  </p>
+  <p align="center">Discord:
+    <a href="https://discord.gg/qZBVS8yyyY" 
+     target="_blank">诡锋的Discord</a>
   </p>
   <br/>
   <h1 align="center"> 
