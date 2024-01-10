@@ -35,6 +35,8 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
   
   <!-- img -->
   <div align="center"><img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+  <br/>
+  <div align="center"><img style="width: 90%;" src="./images/meme.png" /></div>
 </p>
 
 
