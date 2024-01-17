@@ -8,7 +8,7 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
               target="_blank">https://blog.vince-g.xyz</a>
   </p>
   <p align="center">
-    Sponsor my projects(赞助我的项目): https://afdian.net/a/vince-g
+    Sponsor 赞助：<a href="https://afdian.net/a/vince-g" target="_blank">https://afdian.net/a/vince-g</a>
   </p>
   <p align="center">
   Bilibili:
