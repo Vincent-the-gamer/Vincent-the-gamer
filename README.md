@@ -8,6 +8,9 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
               target="_blank">https://blog.vince-g.xyz</a>
   </p>
   <p align="center">
+    Sponsor my projects(赞助我的项目): https://afdian.net/a/vince-g
+  </p>
+  <p align="center">
   Bilibili:
   <a href="https://space.bilibili.com/3342738" 
      target="_blank">诡锋的B站</a>
