@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/64945568?s=400&u=d9ea1f44f772403acbf8775fca48877bc3fd1fe0&v=4" style="width: 90px; height: 90px;"/>
   <h2 align="center">诡锋 (Vincent)</h2>
-  <p align="center">:clap: 一个喜欢Rust编程和Web前端开发的普通人。 :clap:</p>
-    <p align="center">:clap: Rust Programming & Web Frontend hobbyist.^v^ :clap:</p>
+  <p align="center">:clap: 又菜又爱写代码^v^ :clap:</p>
+    <p align="center">:clap: Noob but a enthusiast in coding. ^v^ :clap:</p>
   <p align="center">
 Personal website(个人网站): <a href="https://blog.vince-g.xyz" 
               target="_blank">https://blog.vince-g.xyz</a>
