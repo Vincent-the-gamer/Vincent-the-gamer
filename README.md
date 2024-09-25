@@ -37,39 +37,39 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
   <div align="center"><img style="width: 90%;" src="./images/meme.png" /></div>
 </p>
 
+### OS
 
-<h3>OS</h3>
+![OS](https://skillicons.dev/icons?i=apple,windows,arch,debian)
 
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+### Skills
 
-<h3>Skills</h3>
+#### Languages/Frameworks
 
-<h4>Programming Languages</h4>
+![Languages/Frameworks](https://skillicons.dev/icons?i=rust,python,java,typescript,react,vue,svelte,vite,yew,tauri,electron)
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+#### Tech Stacks
 
-<h4>Web Frontend Development</h4>
+![Tech Stacks](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,elasticsearch,nginx,linux,nodejs,docker,kubernetes,githubactions,git,github,gitlab,postman,cloudflare,bash)
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+#### Editor/IDE
 
-<h3>Gaming</h3>
+![Tech Stacks](https://skillicons.dev/icons?i=vscode,idea,pycharm)
+
+#### Others
+
+![OpenAI](https://img.shields.io/badge/-GPTs-412991?style=for-the-badge&logo=openai&logoColor=white")
+![Discord](https://img.shields.io/badge/-Discord-0052CC?style=for-the-badge&logo=discord&logoColor=white")
+![Suno AI](https://img.shields.io/badge/Suno%20AI-D5008A?style=for-the-badge&logo=suno&logoColor=white)
+
+### Gaming
 
 ![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Steam Deck](https://img.shields.io/badge/Steam%20Deck-000000?style=for-the-badge&logo=steamdeck&logoColor=white)
 
----
 
 ![img](./profile-3d-contrib/profile-south-season-animate.svg)
 
