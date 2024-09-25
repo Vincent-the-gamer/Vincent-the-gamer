@@ -82,12 +82,9 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
     <br/>
     <img src="https://stats.justsong.cn/api/bilibili/?id=3342738&theme=dark"/>
     <br/>
-    <!-- most used languages-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-the-gamer&hide_title=true&hide_border=true&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=c%23,shaderlab,hlsl" />
-    <br/>
 </p>
 
-# Streak(连续打卡）
+# Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-the-gamer" />
 </p>
