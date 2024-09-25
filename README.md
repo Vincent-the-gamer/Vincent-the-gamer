@@ -45,11 +45,11 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
 
 #### Languages/Frameworks
 
-![Languages/Frameworks](https://skillicons.dev/icons?i=rust,python,java,typescript,react,vue,svelte,vite,yew,tauri,electron)
+![Languages/Frameworks](https://skillicons.dev/icons?i=rust,python,java,typescript,react,vue,svelte,vite,vitest,yew,tauri,electron)
 
 #### Tech Stacks
 
-![Tech Stacks](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,elasticsearch,nginx,linux,nodejs,docker,kubernetes,githubactions,git,github,gitlab,postman,cloudflare,bash)
+![Tech Stacks](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,elasticsearch,nginx,linux,nodejs,pnpm,docker,kubernetes,githubactions,git,github,gitlab,postman,cloudflare,bash)
 
 #### Editor/IDE
 
