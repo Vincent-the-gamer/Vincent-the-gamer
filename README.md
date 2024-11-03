@@ -18,7 +18,7 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
   <br/>
   <h1 align="center"> 
     <a href="https://space.bilibili.com/3342738"> 
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding for fun!&center=true&size=20"> 
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding%20for%20fun!&center=true&size=20"> 
     </a> 
   </h1>
   <!-- Gif -->
