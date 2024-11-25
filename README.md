@@ -6,11 +6,6 @@
 Personal website(个人网站): <a href="https://blog.vince-g.xyz" 
               target="_blank">https://blog.vince-g.xyz</a>
   </p>
-  <p align="center">
-  Bilibili:
-  <a href="https://space.bilibili.com/3342738" 
-     target="_blank">诡锋的B站</a>
-  </p>
   <p align="center">Discord:
     <a href="https://discord.gg/qZBVS8yyyY" 
      target="_blank">诡锋的Discord</a>
@@ -78,9 +73,6 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
 # Info
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vincent-the-gamer&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-    <br/>
-    <img src="https://stats.justsong.cn/api/bilibili/?id=3342738&theme=dark"/>
-    <br/>
 </p>
 
 # Streak
