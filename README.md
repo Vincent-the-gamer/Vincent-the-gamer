@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/64945568?s=400&u=d9ea1f44f772403acbf8775fca48877bc3fd1fe0&v=4" style="width: 90px; height: 90px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Vincent-the-gamer&fontSize=60"/>
   <h2 align="center">诡锋 (Vincent)</h2>
   <p align="center">:clap: Coding for fun ^_^ :clap:</p>
   <p align="center">
@@ -68,7 +68,11 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
 ![img](./profile-3d-contrib/profile-south-season-animate.svg)
 
 # Visits
-![Visitor Count](https://profile-counter.glitch.me/vincent-the-gamer/count.svg)
+
+> [!NOTE]
+> The number has been reset when I changed the link....
+
+![](https://count.getloli.com/get/@Vincent-the-gamer?theme=rule34)
 
 # Info
 <p align="center">
