@@ -6,10 +6,6 @@
 Personal website(个人网站): <a href="https://blog.vince-g.xyz" 
               target="_blank">https://blog.vince-g.xyz</a>
   </p>
-  <p align="center">Discord:
-    <a href="https://discord.gg/qZBVS8yyyY" 
-     target="_blank">诡锋的Discord</a>
-  </p>
   <br/>
   <h1 align="center"> 
     <a href="https://space.bilibili.com/3342738"> 
@@ -33,7 +29,7 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
 
 ### OS
 
-![OS](https://skillicons.dev/icons?i=apple,windows,arch,debian)
+![OS](https://skillicons.dev/icons?i=apple,windows,arch,nix)
 
 ### Skills
 
