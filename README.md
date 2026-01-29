@@ -24,7 +24,10 @@ Personal website(个人网站): <a href="https://blog.vince-g.xyz"
   </div>
   
   <!-- img -->
-  <div align="center"><img style="width: 90%;" src="./images/meme.png" /></div>
+  <div align="center">
+    <img style="width: 90%;" src="./images/meme.png" />
+    <img style="width: 90%;" src="https://static.vince-g.xyz/gifs/head-evade.gif" />
+  </div>
 </p>
 
 ### OS
