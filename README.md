@@ -3,8 +3,13 @@
   <h2 align="center">诡锋 (Vincent)</h2>
   <p align="center">:clap: Coding for fun ^_^ :clap:</p>
   <p align="center">
-Personal website(个人网站): <a href="https://blog.vince-g.xyz" 
-              target="_blank">https://blog.vince-g.xyz</a>
+Personal website: <a href="https://blog.vince-g.xyz" 
+              target="_blank">Click Here</a>
+  </p>
+  <p align="center">
+Discord Server: <a href="https://discord.gg/cKc5AVHTSr" 
+              target="_blank">Click Here</a>
+    
   </p>
   <br/>
   <h1 align="center"> 
