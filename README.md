@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Vincent-the-gamer&fontSize=60"/>
-  <h2 align="center">诡锋 (Vincent)</h2>
+  
+
+https://github.com/user-attachments/assets/18d4d235-aea9-45c8-942a-57b7d1ea25e1
+
+
+  <h2 align="center">Vincent</h2>
   <p align="center">:clap: Coding for fun ^_^ :clap:</p>
   <p align="center">
 Personal website: <a href="https://blog.vince-g.xyz" 
@@ -13,9 +17,7 @@ Discord Server: <a href="https://discord.gg/cKc5AVHTSr"
   </p>
   <br/>
   <h1 align="center"> 
-    <a href="https://space.bilibili.com/3342738"> 
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding%20for%20fun!&center=true&size=20"> 
-    </a> 
   </h1>
   <!-- Gif -->
   <div align="center">
