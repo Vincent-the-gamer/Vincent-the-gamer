@@ -1,9 +1,5 @@
 <p align="center">
-  
-
-https://github.com/user-attachments/assets/18d4d235-aea9-45c8-942a-57b7d1ea25e1
-
-
+  <img width="2752" height="1536" alt="小鲸鱼壁纸" src="https://github.com/user-attachments/assets/0a049513-38af-4c97-be20-a572fc55acee" />
   <h2 align="center">Vincent</h2>
   <p align="center">:clap: Coding for fun ^_^ :clap:</p>
   <p align="center">
