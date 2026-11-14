@@ -1,15 +1,10 @@
 <p align="center">
-  <img width="2752" height="1536" alt="小鲸鱼壁纸" src="https://github.com/user-attachments/assets/0a049513-38af-4c97-be20-a572fc55acee" />
+  <img width="1920" height="1080" alt="62334C2B9ED1D7DC0578F03904A8849D_waifu2x_art_scale" src="https://github.com/user-attachments/assets/5b7b3507-0304-42a0-b998-ec37a303a347" />
   <h2 align="center">Vincent</h2>
   <p align="center">:clap: Coding for fun ^_^ :clap:</p>
   <p align="center">
 Personal website: <a href="https://blog.vince-g.xyz" 
               target="_blank">Click Here</a>
-  </p>
-  <p align="center">
-Discord Server: <a href="https://discord.gg/cKc5AVHTSr" 
-              target="_blank">Click Here</a>
-    
   </p>
   <br/>
   <h1 align="center"> 
@@ -26,9 +21,7 @@ Discord Server: <a href="https://discord.gg/cKc5AVHTSr"
     <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
   </div>
   
-  <!-- img -->
   <div align="center">
-    <img style="width: 90%;" src="./images/meme.png" />
     <img src="./images/head-evade.gif" />
   </div>
 </p>
@@ -66,7 +59,6 @@ Discord Server: <a href="https://discord.gg/cKc5AVHTSr"
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Steam Deck](https://img.shields.io/badge/Steam%20Deck-000000?style=for-the-badge&logo=steamdeck&logoColor=white)
 
-
 ![img](./profile-3d-contrib/profile-south-season-animate.svg)
 
 # Visits
@@ -76,20 +68,9 @@ Discord Server: <a href="https://discord.gg/cKc5AVHTSr"
 
 ![](https://count.getloli.com/get/@Vincent-the-gamer?theme=rule34)
 
-# Info
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vincent-the-gamer&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-</p>
-
 # Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-the-gamer" />
 </p>
-
-# Activities
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-the-gamer&theme=dracula" />
-</p>
-
 
 
